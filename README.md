@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # cocos2dx-cardgame
 
 这是一个基于 Cocos2d-x 3.17 开发的纸牌游戏示例项目。项目采用 MVC（Model-View-Controller）架构模式，展示了如何使用 Cocos2d-x 引擎开发一个简单的纸牌游戏。
@@ -154,3 +155,6 @@ void GameController::onCardClicked(CardModel* card) {
 ### 4. 在GameView中添加新的label并绑定点击事件，同时设置回调函数
 
 ### 5. 进行测试
+=======
+This code includes resource code for Classes and images, as well as the game's configuration files. To read this code, you need to first download cocos2d-x 3.17 (this file is no longer available on the official website; for details, please download it from https://github.com/cocos2d/cocos2d-x. After downloading, directly configure cocos2d-x into the current folder), CMake 3.82, and Visual Studio 2022 (with 2012 and 2013 plugins added for convenient direct reading), and Python 2.7. Then, add all of these to the path to run it.
+>>>>>>> c8dc0619d1b49261baf4d4cdb190a8c4fbf38b76

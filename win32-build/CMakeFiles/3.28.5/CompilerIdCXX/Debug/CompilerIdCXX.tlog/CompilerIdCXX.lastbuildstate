@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 PlatformToolSet=v143:VCToolArchitecture=Native64Bit:VCToolsVersion=14.44.35207:TargetPlatformVersion=10.0.26100.0:
 Debug|x64|F:\cocos2dx-cardgame-main\win32-build\CMakeFiles\3.28.5\CompilerIdCXX\|
+=======
+PlatformToolSet=v143:VCToolArchitecture=Native64Bit:VCToolsVersion=14.44.35207:TargetPlatformVersion=10.0.26100.0:
+Debug|x64|F:\cocos2dx-cardgame-main\win32-build\CMakeFiles\3.28.5\CompilerIdCXX\|
+>>>>>>> c8dc0619d1b49261baf4d4cdb190a8c4fbf38b76
